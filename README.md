@@ -53,6 +53,7 @@ python3 kahoot.py -i 123456 -n bot -m 50
 
 ```
 ├── kahoot.py         # Основной исполняемый файл
+├── LICENSE           # Лицензия
 └── README.md         # Документация
 ```
 

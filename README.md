@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href ="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.12%2B-blue.svg" /></a>
-  <img src="https://img.shields.io/github/license/poiko34/kahoot-bot" />
+  <a href ="https://github.com/poiko34/kahoot-bot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/poiko34/kahoot-bot" /></a>
 </p>
 
 <hr>

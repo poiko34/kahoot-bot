@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3.8%2B-blue.svg" />
+  <a href ="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.12%2B-blue.svg" /></a>
   <img src="https://img.shields.io/github/license/poiko34/kahoot-bot" />
 </p>
 
